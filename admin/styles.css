@@ -1,17 +1,4 @@
 * {
     font-family: 'Noto Sans', sans-serif;
 }
-.card{
-    border-radius: 0%;
-    img{ border-radius: 0%;}
-    h5{ text-align: center;}
-    p{
-        text-align: center;
-        margin-top: 10%;
-    }
-}
-.btn{
-    text-decoration: none;
-    display: flex;
-    justify-content: flex-end;
-}
+
